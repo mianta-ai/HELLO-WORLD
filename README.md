@@ -1,2 +1,2 @@
 # HELLO-WORLD
-ce teste est additionnel à 'hello world'
+ce texre est additionnel à 'hello world'
